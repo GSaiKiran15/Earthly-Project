@@ -1,0 +1,3 @@
+
+// $("#images").hide();
+// $("#name").hide();
